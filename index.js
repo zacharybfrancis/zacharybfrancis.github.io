@@ -1,5 +1,3 @@
-function whenPageReady(){
-  $(".button-collapse").sideNav();
-}
-
-$(document).ready(whenPageReady)
+$(document).ready(function(){
+      $('.parallax').parallax();
+    });
