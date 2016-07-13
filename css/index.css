@@ -21,7 +21,11 @@
 }
 
 #welcome-button-div{
-  padding: 30px;
+  padding: 20px;
+}
+
+#enter-button{
+  color: #FFFFFF;
 }
 
 #welcome{
