@@ -17,6 +17,10 @@
   font-size: 30px;
 }
 
+#welcome-button{
+  padding: 5px;
+}
+
 #welcome{
   color: white;
 }
