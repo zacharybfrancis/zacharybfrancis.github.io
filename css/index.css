@@ -20,12 +20,13 @@
   background-color: rgba(135, 206, 250, 0.7);
 }
 
-#welcome-button-div{
+#enter-div{
   padding: 20px;
 }
 
 #enter-button{
-  color: #FFFFFF;
+  background-color: white;
+  color: black;
 }
 
 #welcome{
