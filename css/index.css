@@ -17,11 +17,15 @@
 }
 
 .waves-effect.waves-red .waves-ripple {
-  background-color: rgba(250, 0, 0, 1);
+  background-color: rgba(250, 0, 0, 0.7);
+}
+
+#welcome-button-div{
+  padding: 30px;
 }
 
 #welcome-button{
-  padding: 30px;
+  color: white;
 }
 
 #welcome{
