@@ -29,6 +29,10 @@
   color: black;
 }
 
-#welcome{
+#welcome-section{
+  background-color: LightSkyBlue;
+}
+
+#welcome-text{
   color: white;
 }
