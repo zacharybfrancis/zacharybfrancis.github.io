@@ -3,7 +3,7 @@
 }
 
 #name{
-  margin-top: 14%;
+  margin-top: 15%;
 }
 
 #name-text{
@@ -17,7 +17,7 @@
 }
 
 .waves-effect.waves-red .waves-ripple {
-  background-color: rgba(250, 0, 0, 0.7);
+  background-color: rgba(135, 206, 250, 0.7);
 }
 
 #welcome-button-div{
