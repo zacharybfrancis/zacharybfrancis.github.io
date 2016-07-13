@@ -1,7 +1,15 @@
-#title-text{
+#name{
+  margin-top: 20%;
+  padding: 10px;
+}
+
+#name-text{
   font-weight: bold;
   color: white;
-  margin-top: 25%;
+}
+
+#quote-text{
+  color: white;
 }
 
 #welcome{
