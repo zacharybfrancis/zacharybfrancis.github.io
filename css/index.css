@@ -27,6 +27,7 @@
 #enter-button{
   background-color: transparent;
   color: white;
+  border: 1px solid white;
 }
 
 #welcome-section{
