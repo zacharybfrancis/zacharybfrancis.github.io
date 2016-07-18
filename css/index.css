@@ -38,6 +38,11 @@
   color: white;
 }
 
+#welcome-paragraph{
+  padding: 20px;
+  color: white;
+}
+
 #about-me-section{
   background-color: LightSkyBlue;
 }
