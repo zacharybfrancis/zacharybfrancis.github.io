@@ -2,6 +2,19 @@
 	--fontstyle: "Courier New";
 }
 
+body, html {
+	height: 100%;
+	margin: 0;
+	
+}
+#example1{
+  background-image: url(images/welcome-tab.gif);
+	height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .parallax-container{
   height: 500px;
 }
@@ -42,9 +55,10 @@
 }
 
 #about-me-section{
-  background-color: LightSkyBlue;
+  background-color: black;
 }
 
 #about-me-text{
   color: white;
+	font-family: var(--fontstyle);
 }
