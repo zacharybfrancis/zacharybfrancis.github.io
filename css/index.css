@@ -1,46 +1,44 @@
+:root{
+	--fontstyle: "Courier New";
+}
+
 .parallax-container{
-  height: 710px
+  height: 500px;
 }
 
-#name{
-  margin-top: 15%;
-}
-
-#name-text{
-  font-weight: bold;
-  color: LightSkyBlue;
-}
-
-#quote{
+.container-text{
+	margin-top: 185px;
+	text-align: center;
+	font-family: var(--fontstyle);
   color: white;
-  font-size: 20px;
+}
+
+#subtitle{
+	font-size: 24px;
+}
+
+.section-text{
+	font-family: var(--fontstyle);
+  color: white;
+}
+
+#welcome-section{
+  background-color: black;
+}
+
+#welcome-text{
+	margin-top: 0px;
 }
 
 .waves-effect.waves-red .waves-ripple {
   background-color: rgba(135, 206, 250, 1);
 }
 
-#enter-div{
-  padding: 20px;
-}
-
 #enter-button{
+	font-family: var(--fontstyle);
   background-color: transparent;
   color: white;
   border: 1px solid white;
-}
-
-#welcome-section{
-  background-color: LightSkyBlue;
-}
-
-#welcome-text{
-  color: white;
-}
-
-#welcome-paragraph{
-  padding-top: 30px;
-  color: white;
 }
 
 #about-me-section{
